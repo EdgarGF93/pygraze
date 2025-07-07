@@ -1,7 +1,0 @@
-pyproject.toml
-src/pygraze/__init__.py
-src/pygraze/experiment.py
-src/pygraze.egg-info/PKG-INFO
-src/pygraze.egg-info/SOURCES.txt
-src/pygraze.egg-info/dependency_links.txt
-src/pygraze.egg-info/top_level.txt
