@@ -1,0 +1,15 @@
+[project]
+name = "pygraze"
+version = "0.0.1-alpha"
+description = "Pythonic tools to use during your grazing-incidence experiment"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [
+    {name = "Edgar Gutierrez Fernandez", email = "edgar.gutierrez-fernandez@esrf.fr"}
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-dir]
+"" = "src"
